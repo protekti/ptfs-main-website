@@ -46,7 +46,15 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 1px;
-  
+}
+
+.buttons3{
+  font-family: serif;
+  font-size: 20px;
+  line-height: 1.6;
+  align-items: center;
+  justify-content: center;
+  min-height: 1px;
 }
 
 .main {
