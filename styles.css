@@ -12,7 +12,7 @@
 
 body{
   font-family: serif;
-  font-size: 18px;
+  font-size: 25px;
   line-height: 1.6;
   display: flex;
   align-items: center;
@@ -23,7 +23,7 @@ body{
 
 .buttons{
   font-family: serif;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.6;
   display: flex;
   align-items: center;
@@ -33,7 +33,47 @@ body{
 }
 .buttons1{
   font-family: serif;
-  font-size: 18px;
+  font-size: 20px;
+  line-height: 1.6;
+  align-items: center;
+  justify-content: center;
+  min-height: 1px;
+}
+.buttons2{
+  font-family: serif;
+  font-size: 20px;
+  line-height: 1.6;
+  align-items: center;
+  justify-content: center;
+  min-height: 1px;
+  
+}
+
+.main {
+  font-size: 25;
+  font-family:Arial;
+  width: auto;
+  font-size: 20px;
+  line-height: 1.6;
+  align-items: center;
+  justify-content: center;
+  min-height: 1px;
+}
+.submain{
+  font-size: 20;
+  font-family:Arial;
+  width: auto;
+  font-size: 20px;
+  line-height: 1.6;
+  align-items: center;
+  justify-content: center;
+  min-height: 1px;
+}
+.names{
+  font-size: 20;
+  font-family:Arial;
+  width: auto;
+  font-size: 20px;
   line-height: 1.6;
   align-items: center;
   justify-content: center;
