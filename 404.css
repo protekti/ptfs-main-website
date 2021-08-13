@@ -1,0 +1,51 @@
+.main {
+  font-size: 25;
+  font-family: Arial;
+  width: auto;
+  font-size: 20px;
+  line-height: 1.6;
+  align-items: center;
+  justify-content: center;
+  min-height: 1px;
+}
+
+.submain{
+  font-size: 10;
+  font-family:Arial;
+  width: auto;
+  font-size: 20px;
+  line-height: 1.6;
+  align-items: center;
+  justify-content: center;
+  min-height: 1px;
+}
+
+.buttons2{
+  font-family: serif;
+  font-size: 20px;
+  line-height: 1.6;
+  align-items: center;
+  justify-content: center;
+  min-height: 1px;
+}
+
+.button {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-color: #555;
+}
+.buttons{
+  font-family: serif;
+  font-size: 20px;
+  line-height: 1.6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 1px;
+}
